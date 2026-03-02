@@ -1,0 +1,11 @@
+{
+  "name": "fastify-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "fastify": "^4.21.0",
+    "@fastify/cors": "^8.3.0"
+  }
+}
