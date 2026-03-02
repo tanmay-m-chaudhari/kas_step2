@@ -1,0 +1,5 @@
+{
+  "name": "root-workspace",
+  "private": true,
+  "workspaces": ["apps/*"]
+}
