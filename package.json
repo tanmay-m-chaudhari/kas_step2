@@ -1,0 +1,9 @@
+{
+  "name": "fullstack-monorepo",
+  "private": true,
+  "scripts": {
+    "dev:frontend": "pnpm --filter web dev",
+    "dev:backend": "pnpm --filter api start",
+    "build": "pnpm --filter web build"
+  }
+}
